@@ -1148,7 +1148,7 @@ body {
     .bar .info .addcss::before{
         content: "80%";
     }
-    .bar .info .addpy::before{
+    .bar .info .addjs::before{
         content: "50%";
     }
     .bar .info .addjava::before{
